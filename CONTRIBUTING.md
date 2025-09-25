@@ -46,3 +46,6 @@ Write clear commit messages.
 Ensure your changes don’t break the build.
 
 Thank you for helping grow the DevByte Community!
+
+## Guidelines for Dev environment set
+### Setting your ssh key
